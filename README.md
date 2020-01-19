@@ -1,0 +1,2 @@
+# Aurochs
+Fantasy setting generator
